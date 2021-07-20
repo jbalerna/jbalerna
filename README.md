@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbalerna, a PhD candidate in the Integrative Biolodgy department at the University of South Florida
 - 💧 I study freshwater ecosystems (mostly urban streams, wetlands)
 - 💞️ I’m up for collaborating on interdisciplinary projects within the focus areas of water management, restoration, and ecology
-- 📫 Shoot me a line @ jbalerna@usf.edu!
+- 📫 HMU @ jbalerna@usf.edu!
 
 <!---
 jbalerna/jbalerna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
